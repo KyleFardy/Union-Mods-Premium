@@ -1,9 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "UnionMods Ad Remover",
-  "version": "1.1",
-  "description": "Removes specific ads from the unionmods.com website.",
-  "permissions": ["activeTab"],
+  "name": "UnionMods Premium",
+  "version": "2.0",
+  "description": "Removes Ads And Replaces Download Waiting With Instant Download Links",
   "content_scripts": [
     {
       "matches": ["*://*.unionmods.com/*"],
